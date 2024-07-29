@@ -1,4 +1,4 @@
-# Base Project
+# Blog App
 
 ## Overview
 
